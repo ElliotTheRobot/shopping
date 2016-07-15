@@ -1,0 +1,9 @@
+{
+  "utterance": "add onions to my shopping list",
+  "intent_type": "ShopIntent",
+  "intent": {
+    "ShopVerb": "add",
+    "ShopItem": "onions",
+    "ShopLocation": "my shopping list"
+  }
+}
